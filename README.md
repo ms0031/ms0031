@@ -14,3 +14,10 @@
 # 💻 Coding Profile:
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/ms0031?theme=forest&ext=contest)
+
+# Projects:
+- [**Portfolio**](https://portfolio-ms0031.netlify.app/)
+- [**Tailwind CSS Colors Explorer**](https://colors-1wy.pages.dev/)
+- [**Tic-Tac-Toe Game**](https://tic-tac-toe-3vr.pages.dev/)
+- [**Password Generator React App**](https://passgen-1sz.pages.dev/)
+
