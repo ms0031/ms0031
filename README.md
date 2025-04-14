@@ -13,18 +13,26 @@
 
 
 # 📄 Projects:
+## [**Mooc-Test**](https://mooc-test.vercel.app/)
+  <img src="/screenshots/mooc-test.png" alt="mooc-test" width="800"/>
+  
 ## [**Portfolio**](https://portfolio-ms0031.netlify.app/)
-  ![portfolio_screenshot](/screenshots/portfolio.png)
+  <img src="/screenshots/portfolio.png" alt="portfolio_screenshot" width="800"/>
+
 ## [**Big-O**](https://big-o-bot.vercel.app)
-  ![portfolio_screenshot](/screenshots/big-o.png)
+  <img src="/screenshots/big-o.png" alt="big-o" width="800"/>
+
 ## [**TNP BIT**](https://bit-tnp.pages.dev/)
-  ![portfolio_screenshot](/screenshots/tnp-bit.png)
+  <img src="/screenshots/tnp-bit.png" alt="tnp-bit" width="800"/>
+
 ## [**Tailwind CSS Colors Explorer**](https://colors-1wy.pages.dev/)
-  ![portfolio_screenshot](/screenshots/tailwind-css.png)
+  <img src="/screenshots/tailwind-css-2.png" alt="tailwind-css" width="800"/>
+  
 ## [**Tic-Tac-Toe Game**](https://tic-tac-toe-3vr.pages.dev/)
-  ![portfolio_screenshot](/screenshots/tic-tac-toe.png)
+  <img src="/screenshots/tic-tac-toe.png" alt="tic-tac-toe" width="800"/>
+
 ## [**Password Generator React App**](https://passgen-1sz.pages.dev/)
-  ![portfolio_screenshot](/screenshots/password-generator.png)
+  <img src="/screenshots/password-generator.png" alt="password-generator" width="800"/>
 
 # 💻 Coding Profile:
 
